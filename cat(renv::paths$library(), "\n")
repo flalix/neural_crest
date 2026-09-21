@@ -1,0 +1,172 @@
+Script started on 2026-09-21 11:54:06-03:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="220" LINES="26"]
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [7m<er):"; head -20 run_scfates.py^Jecho "=== does the project copy exist?"; ls -la /home/flavio/uv/HDCA_heart_dev/libs/run_scfates.py 2>&1 | tail -1[27m<er):"; head -20 run_scfates.py^Jecho "=== does the project copy exist?"; ls -la /home/flavio/uv/HDCA_heart_dev/libs/run_scfates.py 2>&1 | tail -1
+[?2004l=== kernelspecs under the project venv:
+/home/flavio/uv/HDCA_heart_dev/.venv/share/jupyter/kernels/python3/kernel.json
+=== any kernel.json in project:
+/home/flavio/uv/HDCA_heart_dev/.venv/share/jupyter/kernels/python3/kernel.json
+=== run_scfates.py head (import order):
+head: cannot open 'run_scfates.py' for reading: No such file or directory
+=== does the project copy exist?
+ls: cannot access '/home/flavio/uv/HDCA_heart_dev/libs/run_scfates.py': No such file or directory
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [7mfind /home/flavio/uv/HDCA_heart_dev/.venv/share/jupyter/kernels -name kernel.json 2>/dev/null | head[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cfind /home/flavio/uv/HDCA_heart_dev/.venv/share/jupyter/kernels -name kernel.json 2>/dev/null | head
+[A
+[?2004l/home/flavio/uv/HDCA_heart_dev/.venv/share/jupyter/kernels/python3/kernel.json
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [7mcd /home/flavio/uv/neural_crest && echo "=== top level:" && ls -a | head -20[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd /home/flavio/uv/neural_crest && echo "=== top level:" && ls -a | head -20
+[?2004l=== top level:
+.
+..
+cat(renv::paths$library(), "\n")
+.claude
+data
+.git
+.gitignore
+notebooks
+params.yml
+pictures
+pyproject.toml
+.python-version
+README.md
+SETUP.md
+src
+uv_init.sh
+uv.lock
+.venv
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [7mecho "=== libs/:"; ls libs 2>/dev/null[27mecho "=== libs/:"; ls libs 2>/dev/null
+[?2004l=== libs/:
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [7mecho "=== venv python:"; ls .venv/bin/python* 2>/dev/null | head -3[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "=== venv python:"; ls .venv/bin/python* 2>/dev/null | head -3
+[?2004l=== venv python:
+.venv/bin/python
+.venv/bin/python3
+.venv/bin/python3.12
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [7mecho "=== kernel.json:"; find .venv/share/jupyter/kernels -name kernel.json 2>/dev/null | head -2[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "=== kernel.json:"; find .venv/share/jupyter/kernels -name kernel.json 2>/dev/null | head -2
+[A
+[?2004l=== kernel.json:
+.venv/share/jupyter/kernels/python3/kernel.json
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [7mecho "=== scFates + rpy2 in venv:"; .venv/bin/python -c "import scFates, rpy2, sys; print('scFates', scFates.__version__, '| rpy2', rpy2.__version__, '| py', sys.version.split()[0][27m[7m)[27m[7m" 2>&1 | tail -2 [27m
+[7m￼[27m
+[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "=== scFates + rpy2 in venv:"; .venv/bin/python -c "import scFates, rpy2, sys; print('scFates', scFates.__version__, '| rpy2', rpy2.__version__, '| py', sys.version.split()[0])" 2>&1 | tail -2
+￼
+[A
+[?2004l=== scFates + rpy2 in venv:
+  File "<string>", line 1, in <module>
+AttributeError: module 'rpy2' has no attribute '__version__'
+￼: command not found
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ clear
+[?2004l[H[2J[3J[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [7m python -m py_compile src/libs/trends_figure.py && echo "installed + compiles: src/libs/trends_figure.py"[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C python -m py_compile src/libs/trends_figure.py && echo "installed + compiles: src/libs/trends_figure.py"
+[?2004linstalled + compiles: src/libs/trends_figure.py
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [7mecho "=== sklearn in their venv metadata:"; ls -d .venv/lib/python3.12/site-packages/sklearn 2>/dev/null || ls -d .venv/lib/python3.12/site-packages/scikit_learn* 2>/dev/null | hea[27m[7md[27m[7m -1 [27m
+[7mecho "=== signature:"; grep -n "^def \|^    z, t_mid" src/libs/trends_figure.py[27m[A[Aecho "=== sklearn in their venv metadata:"; ls -d .venv/lib/python3.12/site-packages/sklearn 2>/dev/null || ls -d .venv/lib/python3.12/site-packages/scikit_learn* 2>/dev/null | head -1
+echo "=== signature:"; grep -n "^def \|^    z, t_mid" src/libs/trends_figure.py
+[?2004l=== sklearn in their venv metadata:
+[0m[01;34m.venv/lib/python3.12/site-packages/sklearn[0m
+=== signature:
+[32m[K24[m[K[36m[K:[m[K[01;31m[Kdef [m[Kgene_modules(adata, n_bins=60, k=6, seed=0):
+[32m[K72[m[K[36m[K:[m[K[01;31m[Kdef [m[Ktrends_figure(adata, title, out_png, n_bins=60, k=6, n_label=3, style_fn=None):
+[32m[K73[m[K[36m[K:[m[K[01;31m[K    z, t_mid[m[K, mod, seg_of_col = gene_modules(adata, n_bins=n_bins, k=k)
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ clear
+[?2004l[H[2J[3J[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ clearecho "=== signature:"; grep -n "^def \|^    z, t_mid" src/libs/trends_figure.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cklearn in their venv metadata:"; ls -d .venv/lib/python3.12/site-packages/sklearn 2>/dev/null || ls -d .venv/lib/python3.12/site-packages/scikit_learn* 2>/dev/null | head -1[A(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ clear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C￼[Kecho "=== scFates + rpy2 in venv:"; .venv/bin/python -c "import scFates, rpy2, sys; print('scFates', scFates.__version__, '| rpy2', rpy2.__version__, '| py', sys.version.split()[0])" 2>&1 | tail -2[A(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [C[C[C[C[C[C[C[C[C[C[83Pkernel.json:"; find .venv/share/jupyter/kernels -name kernel.json 2>/dev/null | head -2
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C^C[?2004l[?2004h[?2004l
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ ^C[?2004l[?2004h[?2004l
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ ^C[?2004l[?2004h[?2004l
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ clear
+[?2004l[H[2J[3J[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [7mcp trends_figure.py /home/flavio/uv/neural_crest/src/libs/trends_figure.py[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccp trends_figure.py /home/flavio/uv/neural_crest/src/libs/trends_figure.py
+[A
+[?2004lcp: cannot stat 'trends_figure.py': No such file or directory
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ cp trends_figure.py /home/flavio/uv/neural_crest/src/libs/trends_figure.py
+[?2004lcp: cannot stat 'trends_figure.py': No such file or directory
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ cp trends_figure.py /home/flavio/uv/neural_crest/src/libs/trends_figure.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clear[Kp trends_figure.py /home/flavio/uv/neural_crest/src/libs/trends_figure.py^C[?2004l[?2004h[?2004l
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ ^C[?2004l[?2004h[?2004l
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [7mpython -m py_compile src/libs/trends_figure.py && echo "installed + compiles: src/libs/trends_figure.py"[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpython -m py_compile src/libs/trends_figure.py && echo "installed + compiles: src/libs/trends_figure.py"
+[?2004linstalled + compiles: src/libs/trends_figure.py
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [7mho "=== sklearn in their venv metadata:"; ls -d .venv/lib/python3.12/site-packages/sklearn 2>/dev/null || ls -d .venv/lib/python3.12/site-packages/scikit_learn* 2>/dev/null | head [27m[7m-[27m[7m1 [27m
+[7mecho "=== signature:"; grep -n "^def \|^    z, t_mid" src/libs/trends_figure.py[27m[A[Aho "=== sklearn in their venv metadata:"; ls -d .venv/lib/python3.12/site-packages/sklearn 2>/dev/null || ls -d .venv/lib/python3.12/site-packages/scikit_learn* 2>/dev/null | head -1
+echo "=== signature:"; grep -n "^def \|^    z, t_mid" src/libs/trends_figure.py
+[?2004lho: command not found
+[0m[01;34m.venv/lib/python3.12/site-packages/sklearn[0m
+=== signature:
+[32m[K24[m[K[36m[K:[m[K[01;31m[Kdef [m[Kgene_modules(adata, n_bins=60, k=6, seed=0):
+[32m[K72[m[K[36m[K:[m[K[01;31m[Kdef [m[Ktrends_figure(adata, title, out_png, n_bins=60, k=6, n_label=3, style_fn=None):
+[32m[K73[m[K[36m[K:[m[K[01;31m[K    z, t_mid[m[K, mod, seg_of_col = gene_modules(adata, n_bins=n_bins, k=k)
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ echo "=== signature:"; grep -n "^def \|^    z, t_mid" src/libs/trends_figure.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cho "=== sklearn in their venv metadata:"; ls -d .venv/lib/python3.12/site-packages/sklearn 2>/dev/null || ls -d .venv/lib/python3.12/site-packages/scikit_learn* 2>/dev/null | head -1[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[78Ppython -m py_compile src/libs/trends_figure.py && echo "installed + compiles: src/libs/trends_figure.py"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[30Pcp trends_figure.py /home/flavio/uv/neural_crest/src/libs/trends_figure.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clear[Kecho "=== signature:"; grep -n "^def \|^    z, t_mid" src/libs/trends_figure.py^C[?2004l[?2004h[?2004l
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ ^C[?2004l[?2004h[?2004l
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ p[Kgit add .
+[?2004l[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ gitr [K[K d[Kcommit -m 'solving R interface'
+[?2004l[main ec6aaba] solving R interface
+ 6 files changed, 983 insertions(+), 724 deletions(-)
+ create mode 100644 "cat(renv::paths$library(), \"\\n\")"
+ create mode 100644 src/libs/trends_figure.py
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ git push
+[?2004lEnumerating objects: 19, done.
+Counting objects:   5% (1/19)Counting objects:  10% (2/19)Counting objects:  15% (3/19)Counting objects:  21% (4/19)Counting objects:  26% (5/19)Counting objects:  31% (6/19)Counting objects:  36% (7/19)Counting objects:  42% (8/19)Counting objects:  47% (9/19)Counting objects:  52% (10/19)Counting objects:  57% (11/19)Counting objects:  63% (12/19)Counting objects:  68% (13/19)Counting objects:  73% (14/19)Counting objects:  78% (15/19)Counting objects:  84% (16/19)Counting objects:  89% (17/19)Counting objects:  94% (18/19)Counting objects: 100% (19/19)Counting objects: 100% (19/19), done.
+Delta compression using up to 20 threads
+Compressing objects:   9% (1/11)Compressing objects:  18% (2/11)Compressing objects:  27% (3/11)Compressing objects:  36% (4/11)Compressing objects:  45% (5/11)Compressing objects:  54% (6/11)Compressing objects:  63% (7/11)Compressing objects:  72% (8/11)Compressing objects:  81% (9/11)Compressing objects:  90% (10/11)Compressing objects: 100% (11/11)Compressing objects: 100% (11/11), done.
+Writing objects:   9% (1/11)Writing objects:  18% (2/11)Writing objects:  27% (3/11)Writing objects:  36% (4/11)Writing objects:  45% (5/11)Writing objects:  54% (6/11)Writing objects:  63% (7/11)Writing objects:  72% (8/11)Writing objects:  81% (9/11)Writing objects:  90% (10/11)Writing objects: 100% (11/11)Writing objects: 100% (11/11), 10.79 KiB | 649.00 KiB/s, done.
+Total 11 (delta 6), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/6)[Kremote: Resolving deltas:  16% (1/6)[Kremote: Resolving deltas:  33% (2/6)[Kremote: Resolving deltas:  50% (3/6)[Kremote: Resolving deltas:  66% (4/6)[Kremote: Resolving deltas:  83% (5/6)[Kremote: Resolving deltas: 100% (6/6)[Kremote: Resolving deltas: 100% (6/6), completed with 6 local objects.[K
+To https://github.com/flalix/neural_crest/
+   2423b04..ec6aaba  main -> main
+[?2004h(base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ conda activate renv[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mource .venv/bin/activate[27mource .venv/bin/activate[1@s
+[?2004l[?2004h(neural-crest) (base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ conda activate renve
+[?2004l
+EnvironmentNameNotFound: Could not find conda environment: renve
+You can list all discoverable environments with `conda info --envs`.
+
+
+[?2004h(neural-crest) (base) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ conda activate renve[K
+[?2004l[?2004h(renv) (neural-crest) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [K(renv) (neural-crest) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [7mpython - <<'EOF' 2>&1 | grep -vE "^\s*$"[27m
+[7mimport sys, warnings; warnings.simplefilter("ignore")[27m
+[7msys.path.insert(0, "src")[27m
+[7mexec(open("/home/flavio/.claude-science/orgs/abb023bb-bd59-418e-bf97-0ebfba525efa/skills/neural-crest-trajectory/kernel.py").read())[27m
+[7mprint("ensure_r_stack:", ensure_r_stack())[27m
+[7mimport scanpy as sc, pandas as pd, numpy as np[27m
+[7mfrom libs.paths import H5AD, TABLES[27m
+[7mprint("check_r_stack all_ok:", check_r_stack()["all_ok"])[27m
+
+[7mIN = sc.read_h5ad(H5AD / "innervation_selection_scfates.h5ad")[27m
+[7mprint("progenitor_tip:", progenitor_tip(IN, ("SCP",)))[27m
+[7mprint("progenitor_node(Bridge+Chrom):", progenitor_node(IN, {"Bridge_state","Chrom_C"})[0])[27m
+[7mmods = pd.read_csv(TABLES / "innervation_gene_modules.csv", index_col=0)[27m
+[7mamb = ambient_check(IN, list(mods.index[mods["module"] == 4]))[27m
+[7mprint("ambient_check corr:", amb["corr_log_counts"], "| genes:", amb["n_genes_found"])[27m
+[7mprint(amb["table"].head(3).to_string())[27m
+[7mEOF[27m
+[7m￼[27m
+[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpython - <<'EOF' 2>&1 | grep -vE "^\s*$"
+import sys, warnings; warnings.simplefilter("ignore")
+sys.path.insert(0, "src")
+exec(open("/home/flavio/.claude-science/orgs/abb023bb-bd59-418e-bf97-0ebfba525efa/skills/neural-crest-trajectory/kernel.py").read())
+print("ensure_r_stack:", ensure_r_stack())
+import scanpy as sc, pandas as pd, numpy as np
+from libs.paths import H5AD, TABLES
+print("check_r_stack all_ok:", check_r_stack()["all_ok"])
+
+IN = sc.read_h5ad(H5AD / "innervation_selection_scfates.h5ad")
+print("progenitor_tip:", progenitor_tip(IN, ("SCP",)))
+print("progenitor_node(Bridge+Chrom):", progenitor_node(IN, {"Bridge_state","Chrom_C"})[0])
+mods = pd.read_csv(TABLES / "innervation_gene_modules.csv", index_col=0)
+amb = ambient_check(IN, list(mods.index[mods["module"] == 4]))
+print("ambient_check corr:", amb["corr_log_counts"], "| genes:", amb["n_genes_found"])
+print(amb["table"].head(3).to_string())
+EOF
+￼
+[A
+[?2004l
+ensure_r_stack: {'R_HOME': '/home/flavio/miniforge3/envs/renv/lib/R', 'which_R': '/home/flavio/miniforge3/envs/renv/bin/R'}
+check_r_stack all_ok: True
+progenitor_tip: (0, {0: 0.26666666666666666, 2: 0.0})
+progenitor_node(Bridge+Chrom): 7
+ambient_check corr: -0.514 | genes: 75
+             n  score_mean  pct_top_decile  median_counts
+Chrom_C     41       0.390          60.976         4009.0
+Aut_Neu_1  145       0.231          24.828        10960.0
+Aut_Neu_2   69       0.198          13.043         9219.0
+￼: command not found
+[?2004h(renv) (neural-crest) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ 
+[?2004l[?2004h(renv) (neural-crest) ]0;flavio@flavio: ~/uv/neural_crest[01;32mflavio@flavio[00m:[01;34m~/uv/neural_crest[00m$ [?2004l
+exit
+
+Script done on 2026-09-21 15:43:19-03:00 [COMMAND_EXIT_CODE="127"]

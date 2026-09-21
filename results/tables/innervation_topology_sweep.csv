@@ -1,0 +1,13 @@
+rep,ndims,nodes,tips,root_SCP,Chrom_C,Aut_Neu_1,Aut_Neu_2,My_SC
+pca,2,10,4.0,0.97,0.51,0.75,0.57,0.93
+pca,2,15,4.0,0.77,0.44,0.71,0.57,0.04
+pca,2,20,6.0,0.93,0.34,0.42,0.39,0.75
+pca,10,10,,,ZeroDivisionError,,,
+pca,10,15,,,ZeroDivisionError,,,
+pca,10,20,,,ZeroDivisionError,,,
+harmony_subset,5,10,3.0,1.0,1.0,1.0,0.87,0.14
+harmony_subset,5,15,2.0,1.0,1.0,1.0,1.0,1.0
+harmony_subset,5,20,3.0,1.0,1.0,1.0,0.86,1.0
+harmony_subset,10,10,3.0,1.0,1.0,1.0,0.99,0.39
+harmony_subset,10,15,3.0,1.0,1.0,1.0,1.0,0.43
+harmony_subset,10,20,2.0,1.0,1.0,1.0,1.0,1.0

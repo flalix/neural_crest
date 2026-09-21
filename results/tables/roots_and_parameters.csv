@@ -1,0 +1,4 @@
+compartment,cells,hvgs,embedding,ndims,method,nodes,ppt_sigma,ppt_lambda,seed,n_map,root_node,root_is_tip,root_basis,tips,forks,branches,t_range,t_sd_median,t_sd_p90,t_sd_max,pct_cells_t_sd_over_5pct_range
+Cardiomyocytes,20366,5000,X_harmony_subset,10,ppt (SimplePPT),20,0.1,100,42,100,19,True,tip richest in Prol_CM/Immat_CM (50 nearest cells),8,5,12,46.6,0.0,0.58,19.14,2.3
+Endothelium,14473,5000,X_harmony_subset,10,ppt (SimplePPT),20,0.1,100,42,100,7,True,tip richest in Prol_EC/Endoc_EC (50 nearest cells),8,4,11,68.0,0.0,0.88,24.22,2.4
+Fibroblasts,19843,5000,X_harmony_subset,10,ppt (SimplePPT),20,0.1,100,42,100,19,False,node carrying most EPDC/Prol_FB assignment weight (internal),6,4,9,45.8,0.0,1.08,16.01,4.7
