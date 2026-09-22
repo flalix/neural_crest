@@ -69,7 +69,7 @@ def gene_modules(adata, n_bins=60, k=6, seed=0):
     return z.loc[order], t_mid, mod.loc[order], seg_of_col
 
 
-def trends_figure(adata, title, out_png, n_bins=60, k=6, n_label=3, style_fn=None):
+def trends_figure(adata, title, out_png, n_bins=60, k=6, n_label=3, style_fn=None, figsize=(7.4, 4.2)):
     z, t_mid, mod, seg_of_col = gene_modules(adata, n_bins=n_bins, k=k)
     A = adata.var["A"]
     # column positions where the segment changes
@@ -81,7 +81,7 @@ def trends_figure(adata, title, out_png, n_bins=60, k=6, n_label=3, style_fn=Non
         seg_spans[seg_of_col.iloc[start]] = (start, i)
         start = i
 
-    fig = plt.figure(figsize=(7.4, 4.2))
+    fig = plt.figure(figsize=figsize)
     gs = fig.add_gridspec(2, 2, height_ratios=[0.04, 1], width_ratios=[1.35, 1],
                           hspace=0.05, wspace=0.42)
 
