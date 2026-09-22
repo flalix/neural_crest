@@ -1,6 +1,10 @@
-# Spatiotemporal structure of cell fate decisions in murine neural crest (forcked)
+# Spatiotemporal structure of cell fate decisions in murine neural crest (study)
 
-This repository is an study over the Spatial Transcriptomics data of developmental neural crest. 
+This repository is an study over the Spatial Transcriptomics data of developmental neural crest.
+
+> The code is written primarily in Python and was supported by Claude/Opus 5.  
+> There are a few CLIs in R and Bash.  
+
 
 [DOI: https://doi.org/10.1038/s41588-025-02352-6](https://www.science.org/doi/10.1126/science.aas9536?referrer=https%3A%2F%2Fwww.google.com%2F)
 
