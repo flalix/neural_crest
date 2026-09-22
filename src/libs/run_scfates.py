@@ -120,7 +120,12 @@ def preprocess(adata, n_top_genes=5000, n_neighbors=25, n_comps=50,
     sc.pp.log1p(a, base=10)
     sc.pp.highly_variable_genes(a, n_top_genes=n_top_genes, flavor="cell_ranger")
     a.raw = a
-    a = a[:, a.var.highly_variable].copy()
+    if copy:
+        a = a[:, a.var.highly_variable].copy()
+    else:
+        # `a[:, mask].copy()` would rebind a local name and leave the caller's
+        # object un-subset -- silently fitting on every gene. Subset in place.
+        a._inplace_subset_var(a.var.highly_variable.values)
     sc.pp.scale(a)
     sc.pp.pca(a, n_comps=n_comps)
     sc.pp.neighbors(a, n_neighbors=n_neighbors)
